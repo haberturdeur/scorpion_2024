@@ -1,0 +1,6 @@
+[submodule "components/RBControl"]
+	path = components/RBControl
+	url = git@github.com:haberturdeur/RB3201-RBControl-library.git
+[submodule "components/lx16a"]
+	path = components/lx16a
+	url = git@github.com:haberturdeur/Esp32-lx16a.git
